@@ -25,7 +25,7 @@
 
 ## Projetos em destaque
 
-- [Toque AI](https://losttech.com.br/) – Plataforma de estudos para pessoas que estão querendo iniciar na área da programação
+- [Losttech](https://losttech.com.br/) – Plataforma de estudos para pessoas que estão querendo iniciar na área da programação
 - [API-Artistas](https://suportededomingo.com.br/) – API feita em typescript e express com a intenção de melhorar minha noção referente ao back-end
 
 ## Contato
@@ -35,4 +35,5 @@
 
 ---
 
-> Educar é tornar o saber algo com voz, sentido e sentimento.
+>
+> A persistencia é o que me deixa no trilho
