@@ -1,8 +1,5 @@
 <h1 align="center">Thiago Oliveira</h1>
-<p align="center">
-  Desenvolvedor Full Stack Júnior | TypeScript · React · React Native · NestJS
-</p>
-
+**`Desenvolvedor Full Stack Júnior`**
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-oliveira-225a5824b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,26 +17,25 @@ Estudante de Sistemas de Informação e desenvolvedor full stack em formação, 
 
 -  Já desenvolvi APIs REST com autenticação JWT, PostgreSQL e Prisma ORM
 -  Atuo tanto em aplicações web (React) quanto mobile (React Native + Expo)
--  Atualmente me aprofundando em **Java e Spring Boot**.
--  Buscando oportunidades de estágio ou nível júnior para evoluir.
+-  Buscando oportunidades de estágio ou nível júnior para evoluir como desenvolvedor
 
 ---
 
 ## Stack principal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
 
 ---
@@ -54,7 +50,7 @@ Aplicativo mobile desenvolvido em grupo (5 integrantes) como parte do curso téc
 - Integração com **Stripe** para gerenciamento de clientes e pagamento
 - Refatoração e manutenção de APIs REST em **NestJS**
 
-###  [FoodBridge](https://github.com/fb-FoodBridge/FB-BackEnd)
+### [FoodBridge](https://github.com/fb-FoodBridge/FB-BackEnd)
 Plataforma de doações entre restaurantes e ONGs, projeto em grupo (5 integrantes). Atuação full stack com foco em back-end:
 - APIs REST em **NestJS** e **TypeScript** para gerenciar o fluxo de doações
 - Autenticação **JWT** e modelagem de banco de dados **PostgreSQL** com **Prisma ORM**
