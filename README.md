@@ -1,15 +1,6 @@
 <h1 align="center">Thiago Oliveira</h1>
 <p align="center">
-  Desenvolvedor Full Stack Júnior | TypeScript · React · React Native · NestJS
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiago-oliveira-225a5824b/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:menezesth16@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" title="Email" alt="Email" width="40" height="40"/>
-  </a>
+  Desenvolvedor Full Stack Júnior 
 </p>
 
 ---
@@ -20,7 +11,8 @@ Estudante de Sistemas de Informação e desenvolvedor full stack em formação, 
 
 -  Já desenvolvi APIs REST com autenticação JWT, PostgreSQL e Prisma ORM
 -  Atuo tanto em aplicações web (React) quanto mobile (React Native + Expo)
-- 🎯Buscando oportunidades de estágio ou nível júnior para evoluir como desenvolvedor
+-  Atualmente me aprofundando em **Java e Spring Boot**
+-  Buscando oportunidades de estágio ou nível júnior para evoluir como desenvolvedor
 
 ---
 
@@ -45,7 +37,7 @@ Estudante de Sistemas de Informação e desenvolvedor full stack em formação, 
 
 ## Projetos em destaque
 
-### [Voz Justa](https://github.com/VozJusta/VJ.MOBILE)
+### 📱 [Voz Justa](https://github.com/VozJusta/VJ.MOBILE)
 Aplicativo mobile desenvolvido em grupo (5 integrantes) como parte do curso técnico. Atuação full stack:
 - Funcionalidades mobile com **React Native**, **Expo** e **TypeScript**, com hooks customizados
 - Interfaces responsivas com **NativeWind**
@@ -53,13 +45,12 @@ Aplicativo mobile desenvolvido em grupo (5 integrantes) como parte do curso téc
 - Integração com **Stripe** para gerenciamento de clientes e pagamento
 - Refatoração e manutenção de APIs REST em **NestJS**
 
-### [FoodBridge](https://github.com/fb-FoodBridge/FB-BackEnd)
+### 🍽️ [FoodBridge](https://github.com/fb-FoodBridge/FB-BackEnd)
 Plataforma de doações entre restaurantes e ONGs, projeto em grupo (5 integrantes). Atuação full stack com foco em back-end:
 - APIs REST em **NestJS** e **TypeScript** para gerenciar o fluxo de doações
 - Autenticação **JWT** e modelagem de banco de dados **PostgreSQL** com **Prisma ORM**
 - Documentação de endpoints com **Swagger**
 - Arquitetura modular e ambiente padronizado com **Docker**
-
 
 ---
 
