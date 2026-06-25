@@ -9,10 +9,10 @@
 
 Estudante de Sistemas de Informação e desenvolvedor full stack em formação, com experiência prática construída em projetos completos de ponta a ponta — do front-end mobile/web até APIs REST documentadas e bancos de dados relacionais.
 
--  Já desenvolvi APIs REST com autenticação JWT, PostgreSQL e Prisma ORM
--  Atuo tanto em aplicações web (React) quanto mobile (React Native + Expo)
--  Atualmente me aprofundando em **Java e Spring Boot**
--  Buscando oportunidades de estágio ou nível júnior para evoluir como desenvolvedor
+-  Já desenvolvi APIs REST com autenticação JWT, PostgreSQL e Prisma ORM.
+-  Atuo tanto em aplicações web (React) quanto mobile (React Native + Expo).
+-  Atualmente me aprofundando em **Java e Spring Boot**.
+-  Buscando oportunidades de estágio ou nível júnior para evoluir como desenvolvedor.
 
 ## Stack principal
 
