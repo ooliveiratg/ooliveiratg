@@ -3,7 +3,6 @@
   Desenvolvedor Full Stack Júnior 
 </p>
 
----
 
 ## Sobre mim
 
@@ -31,7 +30,6 @@ Estudante de Sistemas de Informação e desenvolvedor full stack em formação, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
 
----
 
 ## Contato
 
