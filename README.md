@@ -14,8 +14,6 @@ Estudante de Sistemas de Informação e desenvolvedor full stack em formação, 
 -  Atualmente me aprofundando em **Java e Spring Boot**
 -  Buscando oportunidades de estágio ou nível júnior para evoluir como desenvolvedor
 
----
-
 ## Stack principal
 
 <p align="center">
@@ -32,25 +30,6 @@ Estudante de Sistemas de Informação e desenvolvedor full stack em formação, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
-
----
-
-## Projetos em destaque
-
-### 📱 [Voz Justa](https://github.com/VozJusta/VJ.MOBILE)
-Aplicativo mobile desenvolvido em grupo (5 integrantes) como parte do curso técnico. Atuação full stack:
-- Funcionalidades mobile com **React Native**, **Expo** e **TypeScript**, com hooks customizados
-- Interfaces responsivas com **NativeWind**
-- Integração com serviço de **IA para análise de imagens** enviadas pelos usuários
-- Integração com **Stripe** para gerenciamento de clientes e pagamento
-- Refatoração e manutenção de APIs REST em **NestJS**
-
-### 🍽️ [FoodBridge](https://github.com/fb-FoodBridge/FB-BackEnd)
-Plataforma de doações entre restaurantes e ONGs, projeto em grupo (5 integrantes). Atuação full stack com foco em back-end:
-- APIs REST em **NestJS** e **TypeScript** para gerenciar o fluxo de doações
-- Autenticação **JWT** e modelagem de banco de dados **PostgreSQL** com **Prisma ORM**
-- Documentação de endpoints com **Swagger**
-- Arquitetura modular e ambiente padronizado com **Docker**
 
 ---
 
