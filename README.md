@@ -59,8 +59,5 @@ Plataforma de doações entre restaurantes e ONGs, projeto em grupo (5 integrant
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-oliveira-225a5824b/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="32" height="32"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:menezesth16@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" title="Email" alt="Email" width="32" height="32"/>
   </a>
 </p>
